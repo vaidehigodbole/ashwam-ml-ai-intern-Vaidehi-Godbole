@@ -10,7 +10,7 @@ Deterministic outputs (same input gives same result)
 Evaluation without canonical label mapping
 Objective scoring based on exact evidence spans
 
-How to Run the Project
+How to Run the Project:
 Make sure you are inside the project folder and run the following command:
 python -m project
 After running, two output files will be created in the "out" folder:
