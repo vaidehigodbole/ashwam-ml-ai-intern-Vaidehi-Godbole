@@ -1,0 +1,5 @@
+{"journal_id": "J1", "extractions":[{"domain":"symptom","evidence_span":"heavy head","polarity":"present","intensity_or_arousal":"medium","time_bucket":"today"}]}
+{"journal_id": "J2", "extractions":[{"domain":"food","evidence_span":"Skipped breakfast","polarity":"absent","intensity_or_arousal":"unknown","time_bucket":"today"}]}
+{"journal_id": "J3", "extractions":[{"domain":"food","evidence_span":"pasta","polarity":"present","intensity_or_arousal":"medium","time_bucket":"today"}]}
+{"journal_id": "J4", "extractions":[{"domain":"mind","evidence_span":"Maybe anxiety","polarity":"uncertain","intensity_or_arousal":"high","time_bucket":"unknown"}]}
+{"journal_id": "J5", "extractions":[{"domain":"mind","evidence_span":"Mind racing","polarity":"present","intensity_or_arousal":"high","time_bucket":"last_night"}]}
