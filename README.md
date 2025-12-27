@@ -1,9 +1,7 @@
 Project Title: Evidence-Grounded Extraction and Evaluation
-
 This project implements a small evaluation pipeline that extracts information from journal entries and scores the extracted results against a golden reference. The goal is to extract evidence-based information without hallucination and evaluate performance using objective metrics.
 
 Project Description
-
 The system reads journal entries from a dataset, identifies phrases related to symptoms, food, and mind/emotional states, and extracts them only if they appear directly in the text. Each extraction includes polarity, intensity or arousal, and a time bucket (today, last_night, past_week, unknown). The predictions are compared with the gold dataset to calculate precision, recall, F1 score, and other evaluation metrics.
 
 This project focuses on:
